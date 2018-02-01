@@ -12,7 +12,7 @@
 
 ## Nigeria
 
-![nigeria](/Users/olatundeoshunlaja/Desktop/ooshunlaja/media/nigeria.png)
+![nigeria](ooshunlaja/media/nigeria.png)
 
 
 
@@ -62,7 +62,7 @@ With the majority of Nigeria's populace in the rural areas, the major languages 
 
 ## Ivory Coast
 
-![ivorycoast](/Users/olatundeoshunlaja/Desktop/ooshunlaja/media/ivorycoast.png)
+![ivorycoast](ooshunlaja/media/ivorycoast.png)
 
 
 
@@ -92,7 +92,7 @@ French, the official language, is taught in schools and serves as a lingua franc
 
 ## Ghana
 
-![ghana](/Users/olatundeoshunlaja/Desktop/ooshunlaja/media/ghana.png)
+![ghana](ooshunlaja/media/ghana.png)
 
 
 
