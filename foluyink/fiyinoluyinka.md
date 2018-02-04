@@ -6,6 +6,14 @@
 
 # Airlines in the Middle East
 
+## Introduction
+
+Air transportation supports 2.4 million jobs and $157.2 billion in GDP in the Middle East.
+The air transport industry in the Middle East directly generated an estimated 430,000 jobs in 2014. 181,000 of those people (43% of the total) were in jobs for airlines or handling agents (for example, flight crew, check-in staff, maintenance crew, reservations and head office staff). Another 22,000 people (5% of the total) worked for airport operators (for example, in airport management, maintenance, security, and operations). 215,000 jobs (50%) were on-site in airports, at retail outlets, restaurants, hotels, etc. A further 3,700 people (1%) were employed in the manufacture of civil aircraft (including systems, components, airframes, and engines). Air navigation service providers employed an additional 5,000 people (1%). 
+
+The total impacts – including those from the operations of the air transport sector itself, the impact of the air transport sector’s procurement of inputs of goods and services from its supply chain, and the impact of employees of the air transport sector and its supply chain spending their wages – mean the air transport sector supported 1.2 million jobs and contributed $97.5 billion to GDP in the Middle East. Here are three of the biggest Airlines in the middle east.
+
+
 ## Etihad Airways
 
 ![Etihad](/foluyink/media/Etihad.jpg)
