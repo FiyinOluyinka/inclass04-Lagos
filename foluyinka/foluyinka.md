@@ -10,7 +10,7 @@ Due Date: 5th February 2018
 
 ##Etihad Airways
 
-![Etihad](/Users/Fiyinfoluwa/Documents/GitHub/inclass04-Lagos/foluyinka/media/Etihad.jpg)
+![Etihad](foluyinka/media/Etihad.jpg)
 
 
 
