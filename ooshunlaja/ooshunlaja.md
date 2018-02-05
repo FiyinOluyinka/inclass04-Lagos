@@ -1,12 +1,22 @@
 # Olatunde Oshunlaja
 
-## In class Assignment 5
+# In Class Assignment 5
 
-## 01/31/2018
+# 01/31/2018
 
 # Countries in West Africa
 
 
+
+## Introduction
+
+West Africa is the western region of Africa. In the north the region is bounded by the Sahel, and in the south and west by the Atlantic Ocean.
+
+The most densely populated area of Africa, it is many ways both the continent's most difficult place for travel and potentially its most rewarding.
+
+West Africa is home to thousands of languages and dialects native to the region. However, due to the influence of European colonizers, common languages spoken in the region are French, English and Portuguese.
+
+In the sporting world the West African nations are known for their success on the international scene in mainly football. Here are three of the biggest countries in West Africa.
 
 
 
