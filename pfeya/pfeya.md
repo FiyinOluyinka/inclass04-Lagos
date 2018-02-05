@@ -11,7 +11,7 @@ A film director is a person who directs the making of a film. A film director
 
 ## David Lynch
 
-![davidlynch](/media/lynch.jpg)
+![davidlynch](/pfeya/media/lynch.jpg)
 
 
 ### Biography
