@@ -1,10 +1,10 @@
 # Film Directors
 
-## Prosper Feya
+* Prosper Feya
 
-## In class assignment 5
+* In class assignment 5
 
-## 02/04/18
+* 02/04/18
 
 A film director is a person who directs the making of a film. A film director controls a film's artistic and dramatic aspects and visualizes the screenplay (or script) while guiding the technical crew and actors in the fulfillment of that vision. The director has a key role in choosing the cast members, production design, and the creative aspects of filmmaking.Under European Union law, the director is viewed as the author of the film. The film director gives direction to the cast and crew and creates an overall vision through which a film eventually becomes realized, or noticed. 
 
