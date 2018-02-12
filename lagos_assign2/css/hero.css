@@ -1,0 +1,25 @@
+
+.hero{
+	display: grid;
+	grid-column: 1/3;
+	grid-template-columns: 1fr 2fr;
+	grid-gap: 25px;
+}
+
+.hero h2 {
+	margin-top: 10px;
+	grid-column: 1/3;
+}
+
+@media(max-width: 600px){
+	.hero{
+	display: block !important;}
+
+	article{
+		display: block;
+	}
+
+	section{
+		display: block;
+	}
+}
