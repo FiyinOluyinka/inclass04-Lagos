@@ -19,3 +19,8 @@ I  used  PHP includes to factor out common elements
 I ensured that all files in the file system followed the industry’s best practices such as lower case names for all the files and images.
 and finally made sure the JS plugin on the homepage was working well and optimized
 
+Design Architect = Prospepr Feya
+My role as the Design Architect was to make sure that I give an elegance of the designer’s touch to the assignment. This included bringing certain CSS font styles, layouts, colors and text to the website. I further ensured that the presentation layer (styles) is coded in CSS so it is visually arranged a way that makes sense for the content and adds value to the structure layer.
+I used a navigation css file to find your way through the webpage. This also ensures that you see the images
+for every team member.
+
