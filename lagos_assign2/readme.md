@@ -6,6 +6,11 @@ To navigate betweeen each of the pages, I went with a horizontal navigation bar,
 
 Lastly, I made use of media queries in order to accomodate users accessing the website from different browsers or devices of different widths. For example, when the browser width is below 600px, the layout changes to a block layout, thereby making it easier for the user to read in one "column", scrolling up or down.
 
+
+
+
+
+
 Coder = Olatunde Oshunlaja
 
 As the coder in this assignment I contributed in the following ways:
