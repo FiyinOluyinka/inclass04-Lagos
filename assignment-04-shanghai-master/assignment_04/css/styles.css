@@ -1,0 +1,35 @@
+
+body {
+  background: rgb(183, 203, 173);
+  font-family: 'Open Sans', sans-serif;
+}
+
+.centered {
+  text-align: center;
+}
+
+.gray {
+  color: rgb(90, 94, 96);
+}
+
+li, p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.headFont {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.highlight {
+  color: white !important;
+  text-decoration: underline;
+}
+
+.topHeader {
+  margin-top: 10px;
+}
+
+img {
+  border-radius: 6px;
+  margin: 20px auto;
+}
