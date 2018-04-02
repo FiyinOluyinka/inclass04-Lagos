@@ -1,56 +1,44 @@
 <?php $page = 'home'; include 'inc/html-top.inc.php';?>
 
 <?php include 'inc/nav.inc.php';?>
-
+<h1 align= "center"> <b> International students</b> </h1>  <!-- Design Instruction: Use of an appropriate font and color to represent an Asian and African background perhaps. Take a look at google fonts -->
 <div class="slider">
   <div><img src='images/yidi.jpg' alt="Yidi"/></div>
   <div><img src='images/yuanzhuo.jpg' alt="Yuanzhuo" /></div>
   <div><img src='images/zhenghao.jpg' alt="Zhenghao"/></div>
   <div><img src= "images/olatunde.jpeg" alt = "Olatunde"/></div>
 </div>
+ 
+ 
 
 <div class="container">
-  <h2 class = "headFont"> <b>Our Team </b> </h2>  <!-- Design Instruction: Use of an appropriate font and color to represent an Asian background perhaps. Take a look at google fonts -->
+  
   <hr>
-  <h3 class = "headFont">Information Architect: Yuanzhuo Wang</h3>
 
-  <ul>
-    <li>Re-architect the content from three individual assignment1 websites, decide the ontology, create a structure using the taxonomy, choose an appropriate choreography for the content.</li>
-    <li>Create three sub-webpages of the assignment, using same subheadings like "About me, Hobbies, Other information.",build the document outline and makes it consistent across three sub-webpages, set up the structure.</li>
-    <li>Create the homepage, modify three pictures to the same size for the slider javascript.,set up the layout, create the navigation part.</li>
-  </ul>
+  <div class="container">
+  <h3 class = "headFont">Yidi Fan</h3>  <!-- Design Instruction: CRAP Principles for headers -->
+  <p>Yidi Fan is interested in music, especially rock and hip hop. During the college years, he has been the Guitarist of the Rock Ensemble of No Jackets Required music club, holding audition for vocals and instrumentalist. He also the vocalist, guitarist and composer of the band June Yellow. I also managed the official account on NetEase Music, hosted and performed a two-hour show at Starbucks in University of Rochester. </p>
+</div>
+
+
+<div class="container">
+  <h3 class = "headFont">Yuanzhuo Wang</h3>
+
+  <p>Yuanzhou in his free time likes playing sports, watching films and listening to music, to help him relieve stress. His favorite sport is soccer and was a member of hishigh school soccer team. Furthermore, he is a crazy fan of Spanish Soccer Club Real Madrid C.F. and almost watched every game of it. In domestic football, the club Real Madrid has won 64 trophies; a record 33 La Liga titles, 19 Copa del Rey, 10 Supercopa de Espana, a Copa Eva Duarte, and a Copa de la Liga.</p>
+</div>
+
+
+<div class="container">
+  <h3 class = "headFont">Zhenghao Yang</h3> <!-- Design Instruction: CRAP Principles for headers -->
+
+  <p>Zhenghao has a crazily-inclusive hobby list, which includes but not limited to music, game, travelling and photographing. He enjoys music as a layman, and has a super-inclusive music list, including symphonies, jazz, blues, rock, electronic, J-pop, etc. But no country music! He is a professional(self-reported) connoisseur of milk tea. The unofficial spokesperson(again self-reported) for a Taiwanese milk tea brand called “Yi Dian Dian.” 
+</p>
 </div>
 
 <div class="container">
-  <h3 class = "headFont">Coder: Yidi Fan</h3>  <!-- Design Instruction: CRAP Principles for headers -->
-  <ul>
-    <li>Design and make the Java Script slider show plugin on the homepage.</li>
-    <li>Work with the Information Architect and Designer for coding for the php, css, inc and js files.</li>
-    <li>Check the webpages and styles meet W3C standards, the html and css pass validation, make sure the files and file system must be clean and follow industry best practices.</li>
-  </ul>
-</div>
-
-<div class="container">
-  <h3 class = "headFont">Design Artist: Zhenghao Yang</h3>
-
-  <ul>
-    <li>Responsible for maintaining readability of web pages and ensuring a professional and stylish presentation of the content.</li>
-  <li>Set up the consistant layout on the three student pages. Modify the layout on the homepage to make the slider javascript best fit for the homepage.</li>
-  <li>Create the css style of all the articles, headings, and background on all four webpages.</li>
-  <li>Create the style for navigation part, hover and is-current effect.</li>
-  </ul>
-</div>
-
-<div class="container">
-  <h3 class = "headFont">Odd Student: Olatunde</h3>  <!-- Design Instruction: This the odd member perhaps  a different font-->
-
-  <ul>
-    <li>Responsible for maintaining readability of web pages and ensuring a professional and stylish presentation of the content.</li>
-  <li>Set up the consistant layout on the three student pages. Modify the layout on the homepage to make the slider javascript best fit for the homepage.</li>
-  <li>Create the css style of all the articles, headings, and background on all four webpages.</li>
-  <li>Create the style for navigation part, hover and is-current effect.</li>
-  </ul>
-</div>
+  <h3 class = "headFont">Olatunde Oshunlaja</h3>  <!-- Design Instruction: This the odd member perhaps  a different font-->
+  <p>Ola is a huge fan of Sports. It’s the competition in sports that intrigues him the most. There is something about watching individuals with some of the greatest talents on the planet dueling against each other that excites me. The sporting activities he has a keen interest include Mixed Martial Arts, Football, Basketball, Formula 1, Track (mostly 100m and 200m) and Soccer. However, Soccer is his one true love. I absolutely love playing and watching soccer. I’m a huge Manchester united Fan. Some of my favorite sportsmen include Lewis Hamilton, Paul Scholes,and Khabib Nurmagomedov. </p>
+  </div>
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>

@@ -16,9 +16,14 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link <?php if($page=='zhenghao'){echo 'highlight';}?>" href="zhenghao.php">Zhenghao</a>
+                </li>
 
             <li class="nav-item">
                 <a class="nav-link <?php if($page=='olatunde'){echo 'highlight';}?>" href="olatunde.php">Olatunde</a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link <?php if($page=='form'){echo 'highlight';}?>" href="form.php">Contact</a>
             </li>
         </ul>
     </div>
