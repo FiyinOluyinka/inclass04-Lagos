@@ -9,7 +9,6 @@
 <!-- Container which has the Nigerian and Chinese Flags as the background, a representation of the countries where all the students are from -->
 
 <div class="container-fluid bg-1 text-center home">
-  <h3 class="margin"></h3>
   <img src="images/hand.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Globe" width="250" height="250"> <!-- An image of a globe was chosen by the desing artist in order to highlight the international theme of the website -->
 </div>
 

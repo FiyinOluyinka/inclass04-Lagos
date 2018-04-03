@@ -6,7 +6,6 @@
 
 <div class="container-fluid bg-1 text-center china">
 
-  <h3 class="margin"></h3>
   <img src="images/china.jpg" class="img-responsive margin right"  alt="Chinese Flag" width="250" height="250">
 </div>
 
