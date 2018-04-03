@@ -41,7 +41,7 @@
     </div>
 
     <div class="col-sm-4"> 
-      <img src="images/yuanzhuo.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Yuanzhuo" width="250" height="250">
+      <img src="images/yuanzhuo.jpg" class="img-responsive img-circle margin top " style="display:inline" alt="Yuanzhuo" width="250" height="250">
       <p> Yuanzhuo is a Freshman at the University of Rochester majoring in Computer Science. Although he has never had a job or internship, he is currently in the market for an internship as front-end web developer for the summer. He enjoys playing sports, watching films and listening to music in is free time, to help him relieve stress. </p>
 
       <a href="yuanzhuo.php" class="btn btn-default btn-lg">
@@ -51,7 +51,7 @@
     </div>
 
     <div class="col-sm-4"> 
-      <img src="images/zhenghao.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Zhenghao" width="250" height="250">
+      <img src="images/zhenghao.jpg" class="img-responsive img-circle margin top " style="display:inline" alt="Zhenghao" width="250" height="250">
       <p>Zhenghao is a Senior at the Universiy of Rochester majoring in Financial Economics. He identifies as an enemy of racism, sexualism, and anti-LGBT groups, and strongly opposes any discrimination in every single possible form. Fascinated by Japanese culture, he learned Japanese in the past 4 years, and hopes to live in Japan at some point.</p>
 
       <a href="zhenghao.php" class="btn btn-default btn-lg">
