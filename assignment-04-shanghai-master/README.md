@@ -37,10 +37,16 @@ email, telephone, browsers and major.
 
 	* Proximity: I ensured that relevant text where placed close together. I also tried to create a semblance of a social media profile on each of the students' individual pages, so I put the profile picture, the students name, and major close together. Similar to the way LinkedIn profiles appear. For the form, I ensured that the textboxes were in close proximity to the prompting text, and each box was on a seperate line in order to prevent any confusion.
 
+* Layout, Typography, Readabiilty and Page Pattern
+	* As I described already I made use of the Montserrat, sans-serif font in order for the website to have a simplistic appeal to it. I also made sure that font colors contrasted well with the background in order to ensure that the texts are legible and more importantly they are readable.
 
+	* For the page pattern, I went with a Z-pattern on the homepage and the contact info page, with a lot of the information being focused on the center of the page. Whilst the individual pages where a simple F-pattern. Prompting visitors to read the information on the website in a chronological way. Kind of the way your LInkedIn profile would look and read. 
 
+	* CSS Grid: Throughtout the website, We can see a grid-like CSS with puts each of the information into sections/ rows. This was done in order to highlight the contrast between sections. On the home page for example, Ola is in the 2nd row alone, since he is the odd student, whereas the 3 chinese students end up in the 3rd row. They are however put into three seperate columns in order to differentiate betweeen them, but they are all in the same row, because they have something in common; the fact that they are chinese students.
 
+	* The website is also responsive, when the browser widths are shrinks, the webpage adjusts accordingly till it hits its limit, after which the text layout changes to a block display. The contrasting backgrounds and images remain the same but their positions adjust in order to incorporate the browser width. In this case the Navigation bar also switches from a horiztontal bar to a button, which when clicked, releases a drop-down menu where the user can select his/ her destination. This feature came with the bootstrao template, and was one of my main reasons for selecting the template.
 
+* Miscellaneous: I selected all the pictures besides those of the invidual students which were obtained from their previous assignments. But I adjusted the sizes of the pictures to ensure that they were all the same. I also decided to make the profile pictures of the students in shape of a circle because of the aesthetic appeal it gave. All the circles have the same dimensions with a maximum width and height of 250 pixels.
 
 
 ## Coder - Olatunde
